@@ -1,0 +1,16 @@
+# LearnHub
+
+A Student Learning Management System
+built using Flutter and Dart.
+
+## Features
+- Student Login
+- Course Management
+- Video Lessons
+- Quiz System
+- Progress Tracking
+
+## Technology
+- Flutter
+- Dart
+- Firebase
